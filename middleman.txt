@@ -69,7 +69,7 @@ Lord love a duck!
 Lord love a duck, {$NAME}!
 Great hearts of palm!
 Hold the onions {$NAME}!
-Shoots and ladders!
+Chutes and ladders!
 Great Barrier Reef!
 Tropic of Cancer!
 Sweet Molly Brown!
