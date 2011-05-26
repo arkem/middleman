@@ -7,11 +7,10 @@ import tweepy
 
 random.seed()
 
-# CREDENTIALS FOR REFERENCE "fakemiddleman", "crooked0little0vein"
-CONSUMER_KEY = "cdr4KBB6F4XkQaOtaXOpg"
-CONSUMER_SECRET = "ck7gIc4hgz6wzOoKeWa2gm3FiGmDfy4rXfQumiA"
-TOKEN_KEY = '123086520-opu1goU3YNNVAM3Mjme9jYV2F1zIZt3CBo0D0oUY'
-TOKEN_SECRET = '0C3xTHJKjdKjvwJTjwF9z06KePp5YoS67OVy2SqLhx8'
+CONSUMER_KEY = ""
+CONSUMER_SECRET = ""
+TOKEN_KEY = ''
+TOKEN_SECRET = ''
 
 MIN_WAIT = 60 # In minutes
 MAX_WAIT = 6 * 60
