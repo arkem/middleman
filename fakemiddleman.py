@@ -26,7 +26,7 @@ def get_name(api):
         SPAMMERS = 0
         for f in api.followers():
             # Basic spammer filter need a better than 1:4 follow ratio
-            if float(f.followers_count / f.friends_count) > 0.25:
+            if float(f.followers_count) / f.friends_count > 0.25:
                 MIDDLEMAN_FOLLOWERS.append(f.screen_name)
             else:
                 SPAMMERS += 1
